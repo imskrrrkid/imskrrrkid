@@ -1,1 +1,2 @@
-print("wassup")
+hi! 
+learning on my own :)
