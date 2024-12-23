@@ -1,2 +1,1 @@
-hi! 
-learning on my own :)
+working on things.
