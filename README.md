@@ -1,2 +1,2 @@
 # SKRRRKID
-I have multiple interests, coding is one of them.
+I have multiple interest, Programming is one of them.
